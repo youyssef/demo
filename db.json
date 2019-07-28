@@ -1,8 +1,5 @@
 {
-  // 20190723170452
-// http://localhost:8080/delivery/ticket/list
-
-"tickets":[
+"tickets" : [
   {
     "id": "75dfbb25-8c4f-4569-b9a4-7b3e324464ac",
     "version": 45,
