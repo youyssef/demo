@@ -17,8 +17,8 @@
         "phone": "a",
         "email": "a",
         "pickupAddress": "Avenue 2 Mars, Casablanca",
-        "pickupBefore": "2019-06-18 17:37:00",
-        "description": "aa",
+        "pickupBefore": "2019-06-18 15:15:00",
+        "description": "...",
         "lat": 33.546467,
         "lng": -7.60229240000001
       },
@@ -33,7 +33,7 @@
         "email": "p",
         "pickupAddress": "Pestana Casablanca, Ain Diab Casablanca",
         "pickupBefore": "2019-06-20 15:48:00",
-        "description": "p",
+        "description": "...",
         "lat": 33.59844199999999,
         "lng": -7.667707999999948
       }
@@ -49,8 +49,8 @@
         "phone": "b",
         "email": "b",
         "deliveryAddress": "Boulevard Abdelmoumen, Casablanca",
-        "deliverBefore": "2019-06-25 17:37:00",
-        "description": "ddd",
+        "deliverBefore": "2019-06-25 17:36:00",
+        "description": "...",
         "waypointIndex": 0,
         "lat": 33.5731586,
         "lng": -7.625771799999939
